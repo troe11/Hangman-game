@@ -1,0 +1,48 @@
+#letters-guessed, #guesses-left {
+	font-size: 48px;
+}
+
+img {
+	margin: 2% 2%;
+}
+
+.container {
+	margin: 0 2%;
+}
+
+.col-md-6 {
+	height: 100%;
+	border: 5px solid red;
+}
+
+#hangedpic {
+	max-width: 100%;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0.75;
+}
+
+.banner {
+	font-size: 120px;
+	color: white;
+}
+
+#guesses-left, #letters-guessed {
+	font-size: 24px;
+	color: white;
+}
+
+#answerKey {
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+
+h1 {
+	color: black;
+}
